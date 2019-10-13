@@ -1,0 +1,25 @@
+.input-range {
+	margin: 2px 15px;
+	padding-top:100px;
+}
+
+.input-range__label-container {
+	color:rgb(26, 5, 5);
+	font-size: 16px;
+}
+
+
+.input-range__label--min,
+.input-range__label--max {
+	top: 60px !important;
+}
+
+.container{
+	background-color: rgb(144, 159, 175);
+}
+
+.card {
+	padding: 20px 50px 20px 50px;
+	box-shadow: 0 4px 5px 0 rgba(70, 19, 19, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
