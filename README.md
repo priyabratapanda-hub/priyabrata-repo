@@ -31,8 +31,9 @@ Go to `http://localhost:3000` to view the app.
 
 ## Tools Used
 
-- [React.JS] .     -Frontend library used in the project.
+- [React.JS] - Frontend library used in the project.
 - [ReactBootstrap] - Used for basic styling.
+- [AXIOS LIBRARY] - Used for making AJAX call.
 
 
 
